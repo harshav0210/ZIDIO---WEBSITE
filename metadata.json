@@ -1,0 +1,6 @@
+{
+  "name": "Project FORESIGHT",
+  "description": "Demand & Inventory Intelligence platform for NorthBay Living (D2C home & lifestyle). Weekly SKU forecasting, WAPE backtesting vs seasonal-naive baseline, stockout & overstock risk quadrant decisioning, and executive readout in INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
